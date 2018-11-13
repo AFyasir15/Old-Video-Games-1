@@ -1,0 +1,34 @@
+html {
+    height: 300vh;
+}
+body { BACKGROUND:url(http://img.gawkerassets.com/img/18ca1o9i3c1vrgif/ku-xlarge.gif);
+      Background-repeat:no-repeat;
+      Background-size: cover;
+      text-align: center;
+      height: 100%;
+}
+h1 {
+    color:white;
+}
+img {
+    width:400px;
+    border-radius: 51px;
+}
+p {
+    color:#47b5ff;
+}
+.main-header {
+    color:red;
+}
+.mohammad {
+    color:gray;
+}
+.bong {
+    color:#f0fc71;
+}
+.exl {
+     color:#f79f76;
+}
+.boy {
+     color:#8f75f7;
+}
